@@ -609,6 +609,9 @@ pre {
 .order-12 {
   order: 12; }
 
+.offset-c {
+    margin-left: 4%; }
+
 .offset-1 {
   margin-left: 8.33333%; }
 
